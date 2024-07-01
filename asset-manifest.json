@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/number-game-react/static/css/main.021d5609.css",
+    "main.js": "/number-game-react/static/js/main.428d7557.js",
+    "static/js/453.22ca6a11.chunk.js": "/number-game-react/static/js/453.22ca6a11.chunk.js",
+    "index.html": "/number-game-react/index.html",
+    "main.021d5609.css.map": "/number-game-react/static/css/main.021d5609.css.map",
+    "main.428d7557.js.map": "/number-game-react/static/js/main.428d7557.js.map",
+    "453.22ca6a11.chunk.js.map": "/number-game-react/static/js/453.22ca6a11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.021d5609.css",
+    "static/js/main.428d7557.js"
+  ]
+}
